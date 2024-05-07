@@ -1,3 +1,3 @@
 - 👋 Hola, soy Yovanis @Ymbossio
-- 👀 Amante de la programación y tecnología.
+- 👀 Amante de la programación y tecnología..
 - 📫 Actualmente estoy aprendiendo muchas cosas...

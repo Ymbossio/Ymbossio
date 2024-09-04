@@ -1,4 +1,3 @@
-# Hola, soy Yovanis Bossio. 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ymbossio/)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white)](https://portafolio-dev-yovanisbossio.netlify.app/)
@@ -6,7 +5,8 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cbeba907-41e6-4abf-ae90-d1823b837faf" width="300" />
-  <p>¡Bienvenidos a mi perfil! Soy un programador web con enfoque en desarrollar sitios webs escalables y mantenibles, utilizando tecnologías como:</p>
+  
+ # Hola, soy Yovanis Bossio. 👋
 </div>
 
 <br/>

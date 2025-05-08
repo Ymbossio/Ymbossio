@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cbeba907-41e6-4abf-ae90-d1823b837faf" width="300" />
+  <img src="https://github.com/user-attachments/assets/cbeba907-41e6-4abf-ae90-d1823b837faf" width="200" />
   
  # Hola, soy Yovanis Bossio. 👋
 </div>
